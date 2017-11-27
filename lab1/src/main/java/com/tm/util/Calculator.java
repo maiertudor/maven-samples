@@ -4,6 +4,7 @@ package com.tm.util;
  * Created by tudor.maier on 17/10/2017.
  */
 public class Calculator {
+
     public static int add(int a, int b) {
         return a + b;
     }
